@@ -1,0 +1,21 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color:#FAF0EF;
+}
+
+.contenedor1{
+    width: 45%;
+    background-color: #F5BeBd;
+    margin: 1% 1%;
+    float: left;
+    padding: 15px 25px 25px 25px;
+}
+
+.contenedor2{
+    width: 45%;
+    background-color: #F5BeBd;
+    margin: 1% 1%;
+    float: right;
+    padding: 15px 25px 25px 25px;
+}
